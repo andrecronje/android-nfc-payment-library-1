@@ -1,0 +1,17 @@
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/container/PaymentInfos.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/exceptions/UnknownPaymentErrorException.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/messages/PaymentMessage.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/IUserPromptPaymentRequest.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/container/ServerInfos.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/persistency/IPersistencyHandler.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/IUserPromptAnswer.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/container/UserInfos.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/IServerResponseListener.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/PaymentRequestInitializer.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/exceptions/IllegalArgumentException.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/IPaymentEventHandler.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/PaymentRequestHandler.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/util/Config.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/PaymentEvent.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/messages/PaymentError.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/main/java/ch/uzh/csg/paymentlib/persistency/PersistedPaymentRequest.java

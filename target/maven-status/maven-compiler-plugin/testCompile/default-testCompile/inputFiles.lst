@@ -1,0 +1,5 @@
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/test/java/ch/uzh/csg/paymentlib/PaymentRequestHandlerTest.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/test/java/ch/uzh/csg/paymentlib/PaymentRequestInitializerTest.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/test/java/ch/uzh/csg/paymentlib/messages/PaymentMessageTest.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/test/java/ch/uzh/csg/paymentlib/testutils/TestUtils.java
+/home/rvoellmy/coinblesk/AndroidNFCPaymentLibrary/src/test/java/ch/uzh/csg/paymentlib/testutils/PersistencyHandler.java
